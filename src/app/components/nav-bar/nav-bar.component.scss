@@ -1,0 +1,9 @@
+.nav-bar-container {
+    display: flex;
+
+    .logo-section {
+        width: 40px;
+        height: 40px;
+        background-image: url('../../../assets/img/logo.png');
+    }
+}
