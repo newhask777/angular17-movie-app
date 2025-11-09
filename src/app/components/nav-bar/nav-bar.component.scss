@@ -3,7 +3,10 @@
 .nav-bar-container {
     display: flex;
     justify-content: center;
+    align-items: center;
     width: 100%;
+    padding: 18px 0px;
+    background: rgba($color: #121829, $alpha: 0.93);
 
     .nav-content {
         display: flex;
